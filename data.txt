@@ -1,0 +1,8 @@
+# Target sum
+target: 15
+
+# Available numbers
+3
+7
+8
+10
